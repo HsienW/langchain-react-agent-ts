@@ -1,4 +1,4 @@
-# Simple-ReAct-Agent
+# LangChain-ReAct-Agent
 
 [![pnpm](https://img.shields.io/badge/package%20manager-pnpm-F69220?logo=pnpm)](https://pnpm.io/)
 [![LangChain License](https://img.shields.io/github/license/langchain-ai/langchainjs)](https://github.com/langchain-ai/langchainjs/blob/main/LICENSE)
