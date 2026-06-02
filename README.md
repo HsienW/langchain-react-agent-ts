@@ -3,7 +3,6 @@
 [![pnpm](https://img.shields.io/badge/package%20manager-pnpm-F69220?logo=pnpm)](https://pnpm.io/)
 [![LangChain License](https://img.shields.io/github/license/langchain-ai/langchainjs)](https://github.com/langchain-ai/langchainjs/blob/main/LICENSE)
 [![LangChain](https://img.shields.io/badge/LangChain-JS-1C3C3C)](https://js.langchain.com/)
-
 [![Source](https://img.shields.io/badge/source-langchain--ai%2Freact--agent--js-1C3C3C)](https://github.com/langchain-ai/react-agent-js)
 
 這是一個使用 **LangChain** 與 `createAgent` 建立 AI Agent 的 TypeScript 專案。它聚焦模型呼叫、工具調用、系統提示詞、LangGraph 整合與 LangSmith追蹤。並僅作為個人 Demo 使用🚀🚀
