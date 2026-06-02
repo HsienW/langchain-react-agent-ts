@@ -11,7 +11,7 @@
 ## 功能
 
 - **LangChain API**：使用 `createAgent` 快速建立 Agent。
-- **內建 Tools**：提供計算、目前時間、模擬天氣與知識庫搜尋範例。
+- **Tools**：提供計算、目前時間、模擬天氣與知識庫搜尋範例。
 - **Middleware**：中介層可加入對話摘要、人工審核等進階流程。
 - **TypeScript**：搭配 Zod schema，讓工具參數具備型別約束。
 - **LangGraph Studio**：可視覺化檢查 Agent 流程。
